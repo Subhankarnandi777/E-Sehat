@@ -61,11 +61,10 @@ The E-Sehat ecosystem consists of **three main components**:
   - Authentication
   - AI integrations
  
+![System Architecture](System_architecture(web).png.jpeg)
 
-![Output1](W1.jpeg)
-![Output2](W2.jpeg)
-![Output3](W3.jpeg)
-![Output4](W4.jpeg)
+
+
 
 ---
 
@@ -149,7 +148,12 @@ E-Sehat
 - Rural healthcare systems  
 - Telemedicine platforms  
 - Digital health ecosystems  
-- Remote medical consultation services  
+- Remote medical consultation services
+
+![Output1](W1.jpeg)
+![Output2](W2.jpeg)
+![Output3](W3.jpeg)
+
 
 ---
 

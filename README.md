@@ -62,8 +62,10 @@ The E-Sehat ecosystem consists of **three main components**:
   - AI integrations
  
 
-![Output1](Output1.jpeg)
-![Output2](Output2.jpeg)
+![Output1](W1.jpeg)
+![Output2](W2.jpeg)
+![Output3](W3.jpeg)
+![Output4](W4.jpeg)
 
 ---
 

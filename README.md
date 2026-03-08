@@ -128,50 +128,40 @@ E-Sehat
 │
 └── README.md
 ```
-🎯 Objectives
+## 🎯 Objectives
 
-- Improve healthcare accessibility in rural areas
+- Improve healthcare accessibility in rural areas  
+- Provide remote consultation services  
+- Enable AI-based health assistance  
+- Digitize patient medical records  
+- Simplify medicine delivery management  
 
-- Provide remote consultation services
+---
 
-- Enable AI-based health assistance
+## 🌍 Applications
 
-- Digitize patient medical records
+- Rural healthcare systems  
+- Telemedicine platforms  
+- Digital health ecosystems  
+- Remote medical consultation services  
 
-- Simplify medicine delivery management
+---
 
-🌍 Applications
+## 🚀 Future Improvements
 
-Rural healthcare systems
+- AI-powered medical diagnosis assistance  
+- Integration with wearable health devices  
+- Smart prescription management  
+- Mobile doctor dashboard  
+- Advanced health analytics  
 
-Telemedicine platforms
+---
 
-Digital health ecosystems
+## 👨‍💻 Contributors
 
-Remote medical consultation services
-
-🚀 Future Improvements
-
-AI-powered medical diagnosis assistance
-
-Integration with wearable health devices
-
-Smart prescription management
-
-Mobile doctor dashboard
-
-Advanced health analytics
-
-👨‍💻 Contributors
-
-Subhankar Nandi
-
-Aritra Chatterjee
-
-Anindita Mondal
-
-Sayuri Ghosh
-
-Satwik Mukherjee
-
-Sudip Manna
+- **Subhankar Nandi**
+- Aritra Chatterjee
+- Anindita Mondal
+- Sayuri Ghosh
+- Satwik Mukherjee
+- Sudip Manna

@@ -60,6 +60,10 @@ The E-Sehat ecosystem consists of **three main components**:
   - Database management
   - Authentication
   - AI integrations
+ 
+
+![Output1](Output1.jpeg)
+![Output2](Output2.jpeg)
 
 ---
 

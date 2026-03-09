@@ -165,13 +165,3 @@ E-Sehat
 - Mobile doctor dashboard  
 - Advanced health analytics  
 
----
-
-## 👨‍💻 Contributors
-
-- **Subhankar Nandi**
-- Aritra Chatterjee
-- Anindita Mondal
-- Sayuri Ghosh
-- Satwik Mukherjee
-- Sudip Manna

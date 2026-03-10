@@ -72,7 +72,6 @@ The E-Sehat ecosystem consists of **three main components**:
 
 ## Frontend
 
-- React Native
 - HTML
 - CSS
 - JavaScript
